@@ -1,1 +1,1 @@
-# Mania_calculator
+"# SIMPLE CALCULATOR" 
