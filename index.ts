@@ -1,5 +1,6 @@
 #! /usr/bin/env node
 //shabang
+// aj Mn repo bana kr hi choron gi, chaye khuch bhi ho jae
 import inquirer from "inquirer";
 const Answer = await inquirer.prompt([
   { message: "enter firstnumber", type: "number", name: "firstnumber" },
